@@ -2,7 +2,7 @@ Hello, I'm Alex Zaloga, and welcome to my GitHub! 👩‍💻 I'm an experienced
 
 -  :sparkles:  Currently, I'm actively seeking opportunities as a Software Engineer. 
 -  :woman_artist: My passion lies in creating visually appealing layouts, designing intuitive user experiences, and ensuring seamless functionality.
-- :nerd_face: I’m currently learning algorithms & databases.
+- :nerd_face: I’m currently learning algorithms & databases. Starting a Data Science course in June 2023 to gain skills in Python and knowledge in AI/ML.
 - :crystal_ball: I'm eager to collaborate on innovative ideas and projects, as well as connect with fellow creative developers! Building applications that simplify everyone's lives brings me immense joy.
 - 📫 If you have any questions or if you're someone looking to transition from Operations to Software Engineering, feel free to connect with me on LinkedIn. I'm always happy to offer guidance and support!
 
